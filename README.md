@@ -29,7 +29,7 @@ This demo is implemented as a Jupyter Notebook that simulates user interactions 
 
 ## Files in the Demo
 
-*   `adaptive_chat_demo.ipynb`: The main Jupyter Notebook containing all the code, explanations, simulation, and visualizations.
+*   `Adaptive_conversation_strategy_alignment_demo.ipynb`: The main Jupyter Notebook containing all the code, explanations, simulation, and visualizations.
 *   `optimizer_state_notebook.json` (generated): Stores the learned state of the optimizer (flow preferences, observed counts). Delete this file to start the simulation fresh.
 *   `README.md`: This file.
 
